@@ -1,6 +1,6 @@
-# H1 Mobile Agents
+# Mobile Agents
 
-### H3 Brought to you by Miguel Gonzalez, Tanner Randall Hunt.
+### Brought to you by Miguel Gonzalez, Tanner Randall Hunt.
    
 **To Use:**
    1. Run the jar file "Mobile Agents.jar".
